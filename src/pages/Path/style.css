@@ -1,0 +1,48 @@
+.path-container {
+  width: 65%;
+  display: flex;
+  background-color: white;
+  flex-direction: column;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+    rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.path-lesson {
+  margin: auto;
+  padding: 1rem;
+  padding-left: 2rem;
+  width: 90%;
+}
+.path-video {
+  padding-top: 1rem;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+.path-description,
+.path-aux,
+.path-lessons-footer {
+  padding: 0 0.5rem;
+  font-size: 0.9rem;
+  text-align: justify;
+}
+.path-lessons-footer {
+  width: 90%;
+  text-align: center;
+  padding-top: 2rem;
+  margin: auto;
+}
+
+.path-description {
+  padding-bottom: 0.3rem;
+}
+
+.path-footer {
+  padding: 0 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.path-lessons-footer a {
+  padding-top: 1rem;
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Aula 1: Introdução à Programação e ao JavaScript",
+    "description": "Bem-vindos ao primeiro passo da sua jornada no mundo da programação! 🌟 Hoje vamos explorar o que é programação e como podemos usar JavaScript para criar coisas incríveis. Aprenda sobre variáveis, como elas armazenam informações, e descubra os operadores básicos que nos ajudam a fazer cálculos. Tudo isso no nosso playground interativo: o CodePen! Prepare-se para se divertir enquanto aprende. 🚀",
+    "urlYoutube": "https://www.youtube.com/embed/sSukQoihLlU",
+    "urlAux": "#"
+  },
+  {
+    "title": "Aula 2: Estruturas de Controle: Condicionais",
+    "description": "Chegou a hora de fazer nossas decisões inteligentes com JavaScript! 🤔 Hoje vamos mergulhar nas estruturas condicionais, aprendendo a usar 'if', 'else if' e 'else' para controlar o fluxo do nosso código. Além disso, vamos conhecer os operadores de comparação e lógicos para deixar nosso código ainda mais poderoso. Vem com a gente e torne-se o mestre das escolhas no CodePen! 💻✨",
+    "urlYoutube": "https://www.youtube.com/embed/Ce4kUpqwFJY",
+    "urlAux": "#"
+  },
+  {
+    "title": "Aula 3: Loops: Repetição Inteligente",
+    "description": "Vamos aprender a repetir com estilo! 🔁 Nesta aula, entraremos no mundo dos loops, onde 'for', 'while' e 'do-while' nos ajudam a executar tarefas repetitivas de maneira eficiente. Veja como os loops tornam a programação mais fácil e divertida, e explore algumas aplicações práticas no CodePen. Pronto para dar um loop na sua mente? Vamos lá! 🔄💡",
+    "urlYoutube": "https://www.youtube.com/embed/bXcllgtB6eU",
+    "urlAux": "#"
+  },
+  {
+    "title": "Aula 4: Funções: Organizando o Código",
+    "description": "amos organizar o caos! 🎯 Hoje, aprenderemos sobre funções, a ferramenta essencial para manter nosso código organizado e eficiente. Descubra como declarar e chamar funções, além de usar parâmetros e retornar valores. Com exemplos práticos no CodePen, você verá como as funções podem tornar a programação muito mais divertida e estruturada. Prepare-se para se tornar um verdadeiro ninja do JavaScript! 🥋💻",
+    "urlYoutube": "https://www.youtube.com/embed/nK-PQSd6WeM",
+    "urlAux": "#"
+  }
+]
