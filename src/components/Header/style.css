@@ -1,0 +1,33 @@
+.header-container {
+  height: 3.125rem;
+  width: 100%;
+  background: #1a237e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.header-logo {
+  font-family: "Courier New", Courier, monospace;
+  width: 70%;
+  height: 100%;
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+  padding-left: 2rem;
+}
+
+.header-nav {
+  width: 30%;
+  height: 100%;
+  text-align: end;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.header-link {
+  text-decoration: none;
+  color: white;
+  padding: 0.3rem;
+}

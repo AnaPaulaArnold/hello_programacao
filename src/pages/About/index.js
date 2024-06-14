@@ -4,6 +4,16 @@ const About = () => {
   return (
     <div className="about-container">
       <h3 className="about-title">Sobre o projeto</h3>
+      <iframe
+        className="about-video"
+        title="video-about-project"
+        width="100%"
+        height="380"
+        src="https://youtube.com/embed/Y2kSk2It4ds"
+        frameBorder="0"
+        allowFullScreen
+        ng-show="showvideo"
+      />
       <p className="about-description">
         Olá! Meu nome é Ana Paula, sou estudante de Bacharelado em Engenharia de
         Software na UNINTER, formada em Técnica de Eletrônica e trabalho como
@@ -71,7 +81,10 @@ const About = () => {
       </p>
 
       <div style={{ textAlign: "center", padding: "0 1rem" }}>
-        <a href="#" style={{ fontWeight: "600" }}>
+        <a
+          href="https://forms.gle/ExaPpnnyb4f5pxtF8"
+          style={{ fontWeight: "600" }}
+        >
           Avalie o projeto atráves desse formulário! Seu feedback ajudará muito
         </a>
       </div>

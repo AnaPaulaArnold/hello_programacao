@@ -20,7 +20,7 @@ export const Path = () => {
           <p className="path-description">{lesson.description}</p>
           <div className="path-footer">
             <a className="path-aux" href={lesson.urlAux}>
-              Baixar código da aula
+              Acessar no CodePen o código da aula
             </a>
           </div>
         </div>
@@ -35,7 +35,10 @@ export const Path = () => {
           em você a curiosade pelo mundo de tecnologia.
           <br /> Te vejo novamente em breve &#128522;
         </p>
-        <a href="#" style={{ fontWeight: "600" }}>
+        <a
+          href="https://forms.gle/ExaPpnnyb4f5pxtF8"
+          style={{ fontWeight: "600" }}
+        >
           Avalie o projeto atráves desse formulário! Seu feedback ajudará muito
         </a>
       </div>
