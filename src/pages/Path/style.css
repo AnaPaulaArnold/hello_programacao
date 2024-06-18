@@ -51,4 +51,8 @@
   .path-container {
     width: 100%;
   }
+
+  .path-lesson {
+    width: 95%;
+  }
 }

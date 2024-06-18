@@ -7,10 +7,10 @@ const Header = () => {
       <div className="header-logo">{`<Hello Programação />`}</div>
       <nav className="header-nav">
         <Link className="header-link" to={"/"}>
-          Trilha
+          <u>Trilha</u>
         </Link>
         <Link className="header-link" to={"/sobre"}>
-          Sobre o projeto
+          <u>Sobre o projeto</u>
         </Link>
       </nav>
     </div>
