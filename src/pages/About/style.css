@@ -21,3 +21,9 @@ h3,
 h4 {
   padding-bottom: 0.5rem;
 }
+
+@media (max-width: 576px) {
+  .about-container {
+    width: 100%;
+  }
+}

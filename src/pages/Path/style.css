@@ -46,3 +46,9 @@
 .path-lessons-footer a {
   padding-top: 1rem;
 }
+
+@media (max-width: 576px) {
+  .path-container {
+    width: 100%;
+  }
+}
